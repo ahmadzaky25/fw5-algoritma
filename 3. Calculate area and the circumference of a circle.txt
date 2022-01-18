@@ -1,0 +1,8 @@
+1. Mulai
+2. Input nilai r
+3. menentukan nilai phi
+4. conditional, jika ya maka hitung luas lingkaran (phi r^2)
+5. tampil hasil Luas lingkaran
+6. jika tidak maka hitung keliling lingkaran (2 x phi x r)
+7. tampil hasil keliling lingkaran
+8. selesai

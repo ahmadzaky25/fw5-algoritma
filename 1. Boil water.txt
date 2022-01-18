@@ -1,0 +1,9 @@
+1 Mulai
+2 Siapkan Panci
+3 Masukan Air kedalam Panci
+4 Nyalakan Kompor
+5 Tutup Panci 
+6 Letakan Panci yang sudah terisi air ke atas kompor
+7 Air matang / mendidih
+8 Matikan Kompor dan Air siap digunakan
+9 Selesai

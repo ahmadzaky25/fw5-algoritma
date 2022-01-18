@@ -1,0 +1,6 @@
+1. Mulai
+2. menentukan nilai x dan y
+3. proses nilai dengan perbandingan
+4. jika ya maka akan tampil nilai x lebih besar dari y
+5. jika tidak maka akan tampil nilai x lebih kecil dari y
+6. selesai

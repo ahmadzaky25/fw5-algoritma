@@ -1,0 +1,7 @@
+1. Mulai
+2. deklarasikan variabel
+3. input nilai
+4. condisi bil habis dibagi 2 == 0
+5. jika ya maka akan tampil nilai x ganjil
+6. jika tidak maka akan tampil nilai x lebih kecil dari y
+7. selesai
